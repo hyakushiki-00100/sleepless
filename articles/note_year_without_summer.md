@@ -285,7 +285,7 @@
 独立採点のエージェントは、キャリントン・イベントとツングースカ大爆発の記事を挙げて、シリーズ加点+100(合計400円)を提案した。ただ、キャリントン・イベントの記事では同じ理由の加点を「くくりの連想にとどまる」として見送っているため、そろえて加点しなかった。400円にする場合は、この3本を「地球規模の天変地異」シリーズとして打ち出すことが前提になる。
 締めの型:(d)冒頭の問い(寒さの原因はどこにあったのか)に答えを返す円環構成(直近3記事は(e)(a)(c))。
 タグ:歴史・科学の記事として、#歴史 #科学 #火山 #気候 #ミステリー に、汎用タグ#コラムを加えた。
-本文(記号・空白除く、おまけ・タグ・判定欄を含まない):実測 5201字。
+本文(記号・空白除く、おまけ・タグ・判定欄を含まない):実測 5,201字。
 
 🎨 カバーイラスト作成用プロンプト(note推奨サイズ 1280×670、横長1.91:1)
 A moody oil-painting style scene: in the foreground, a candlelit 19th-century lakeside villa window on a cold rainy night, a young woman in a dark dress writing by quill at a desk, rain streaking the glass; through the window, the dark lake and mountains under a heavy overcast sky; on the far horizon, beyond the clouds, a faint distant red glow of an erupting volcano blending into an unnatural orange-red sunset band, as in a Turner painting. Muted blues and greys contrasted with warm candlelight and the eerie red sky. Wide 1.91:1 composition, the woman placed on the left third, generous empty sky area on the right for a title. Cinematic, atmospheric, painterly, high detail.
